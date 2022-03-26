@@ -1,0 +1,6 @@
+flutter pub run rename --bundleId com.skyflora.delivery
+flutter pub run rename --appname "Skyflora Delivery Hero"
+
+key.jks
+skyflora_delivery
+123456
